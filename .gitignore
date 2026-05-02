@@ -7,3 +7,8 @@ Thumbs.db
 
 # Temporary
 *.tmp
+
+
+*.JFIF
+
+*.txt
