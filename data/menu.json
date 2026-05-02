@@ -1,0 +1,268 @@
+{
+  "brand": {
+    "name": "Bajcookies",
+    "tagline": "Artisan cookies for every mood and season",
+    "logo": "photos/logo.jpg"
+  },
+  "currency": "EGP",
+  "notes": [
+    "All cookies are made fresh to order.",
+    "Ask about gift boxes and event trays.",
+    "Customization and bulk orders are welcome."
+  ],
+  "categories": [
+    {
+      "id": "signature-art-seasonal",
+      "name": "Signature Art & Seasonal",
+      "description": "High-visual impact, customizable items",
+      "items": [
+        {
+          "id": "art-sugar-cookies",
+          "name": "Custom Art Sugar Cookies",
+          "description": "More than just a cookie—it's a canvas. Hand-painted and tailored for your most cherished celebrations. Crisp, buttery, and intricately decorated.",
+          "buildYourOwn": true,
+          "tags": ["Custom", "Seasonal"],
+          "photos": [],
+          "variants": {
+            "label": "Theme",
+            "options": [
+              {
+                "name": "Others",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/2a3331b5-261b-4194-a994-c6d7b81fdada.jpg",
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/6b0b37a5-03f4-4eea-aa5e-1ed010c7d274.jpg",
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/dfc60da7-08cc-4b5f-9da1-09668ec509fc.jpg"
+                ]
+              },
+              {
+                "name": "Eid",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/eid/63cf5a3d-2cfd-4327-a475-3e57612b7cac.jpg",
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/eid/6b8abe41-62d3-48d4-a262-6f327165b8b9.jpg",
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/eid/6d1e12a1-f219-4f54-8367-db6bf83d26d6.jpg",
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/eid/f915a54e-4cd1-4fd1-953c-6707c0b38305.jpg"
+                ]
+              },
+              {
+                "name": "Ramadan",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/ramadan/82103488-b471-4fe2-a9ea-3d37a6b73a9f.jpg"
+                ]
+              },
+              {
+                "name": "Halloween",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/haloween/151b9a8e-5a95-49f7-aa20-c77331554726.jpg",
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/haloween/9eeb49a3-991c-43ad-80c4-be017689bdf3.jpg"
+                ]
+              },
+              {
+                "name": "Christmas",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/christmas/1cab3ba4-9c8b-44cd-b3be-e1870ea64b7e.jpg",
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/christmas/5bf927d7-d64e-41d5-a28a-e09e379fd7db.jpg"
+                ]
+              },
+              {
+                "name": "Valentine",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/valatine/17e4ddf1-8bd3-4685-a15f-eaa911001e77.jpg",
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/valatine/28394ff6-4239-439a-9742-f52815b407de.jpg",
+                  "photos/Signature Art & Seasonal/Art Sugar Cookies/valatine/f1c64c3c-51a9-47e1-94c4-e68055db17c1.jpg"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "signature-crinkles",
+          "name": "Signature Crinkles",
+          "description": "A classic fudgy center with a delicate, crackled powdered sugar finish. Available in vibrant citrus and rich velvet flavors.",
+          "tags": ["Bestseller"],
+          "photos": [],
+          "variants": {
+            "label": "Flavor",
+            "options": [
+              {
+                "name": "Chocolate",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Signature Crinkles/choco/526b5dfa-02f1-4aac-95d3-3ed928ad063a.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/choco/9b2f07c1-0344-4d3d-a9a5-ab521a387937.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/choco/a4163333-c5d1-411d-8892-149de1de7dc1.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/choco/WhatsApp Image 2026-04-10 at 18.24.40 (1).jpeg"
+                ]
+              },
+              {
+                "name": "Double Chocolate",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Signature Crinkles/double choco/107cac7e-e058-4977-a88a-559ba11aec36.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/double choco/135b4755-597d-43e8-be86-346d8eec6b48.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/double choco/55270a92-764e-460c-86f5-dbcc6df2f06a.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/double choco/WhatsApp Image 2026-04-10 at 18.24.39 (3).jpeg"
+                ]
+              },
+              {
+                "name": "Lemon",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Signature Crinkles/Lemon/dcccbae3-847a-4d91-9b00-511850a6ebe8.jpg"
+                ]
+              },
+              {
+                "name": "Red Velvet",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Signature Crinkles/Red Velvet/a2f09c3b-70c5-4c6a-b68d-6e673c63855a.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/Red Velvet/a5d2ccfa-c5b7-47fe-8dc7-89011ea31ae2.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/Red Velvet/b45155bc-c2fb-4a7a-904b-a7ed581fe346.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/Red Velvet/WhatsApp Image 2026-04-10 at 18.24.40 (2).jpeg"
+                ]
+              },
+              {
+                "name": "Strawberry",
+                "photos": [
+                  "photos/Signature Art & Seasonal/Signature Crinkles/Strawberry/4472125d-a565-4ce4-8ada-c061f18f6147.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/Strawberry/9d624624-b2ff-489b-bee8-ff56caed5f16.jpg",
+                  "photos/Signature Art & Seasonal/Signature Crinkles/Strawberry/e73e0b02-60a6-4ef1-9f79-476f52402a28.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mindful-baker",
+      "name": "The Mindful Baker",
+      "description": "Dietary needs and natural ingredients",
+      "items": [
+        {
+          "id": "power-trio",
+          "name": "The Power Trio",
+          "description": "Wholesome, chewy, and naturally sweetened. A hearty blend of fiber-rich oats and sun-ripened fruit.",
+          "ingredients": ["Date", "Oats", "Raisin"],
+          "tags": ["Natural", "Fiber"],
+          "photos": [
+            "photos/The Mindful Baker/The Power Trio/097727d3-4973-4ffb-9dd7-ea87f8d5a20d.jpg",
+            "photos/The Mindful Baker/The Power Trio/10ea01d4-63dc-4d5a-9bf3-0eeb5fa6cb2c.jpg",
+            "photos/The Mindful Baker/The Power Trio/6bc98774-54fd-4d6e-9d04-c5909237bcd3.jpg",
+            "photos/The Mindful Baker/The Power Trio/cab90a4c-6c19-4d70-881b-053c6776d50f.jpg"
+          ]
+        },
+        {
+          "id": "everything-free-pb",
+          "name": "\"Everything-Free\" Peanut Butter",
+          "description": "Creamy, protein-packed indulgence made without the compromise. 100% Gluten-Free, Dairy-Free, and Sugar-Free.",
+          "labels": ["Sugar-Free", "Dairy-Free", "Gluten-Free"],
+          "tags": ["GF", "DF", "SF"],
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": "gourmet-classics",
+      "name": "Gourmet Classics",
+      "description": "Indulgent, filled, and textured cookies",
+      "items": [
+        {
+          "id": "signature-chocolate-chip",
+          "name": "Signature Chocolate Chip",
+          "description": "Our iconic buttery dough loaded with premium chips and a deep chocolate center.",
+          "fillings": ["Chocolate"],
+          "tags": ["Classic"],
+          "photos": [
+            "photos/Gourmet Classics/Signature Chocolate Chip/0c6a158c-4f08-437c-999a-a5f8191bdf66.jpg",
+            "photos/Gourmet Classics/Signature Chocolate Chip/25e277f1-39e6-48bd-baaa-42aef2c53912.jpg",
+            "photos/Gourmet Classics/Signature Chocolate Chip/53d2f06a-4f5f-48ff-be39-3c9cb22d03aa.jpg",
+            "photos/Gourmet Classics/Signature Chocolate Chip/859e97f1-05c8-4222-b4d2-25c0175ee98b.jpg",
+            "photos/Gourmet Classics/Signature Chocolate Chip/WhatsApp Image 2026-04-10 at 18.24.33 (1).jpeg",
+            "photos/Gourmet Classics/Signature Chocolate Chip/WhatsApp Image 2026-04-10 at 18.24.34.jpeg",
+            "photos/Gourmet Classics/Signature Chocolate Chip/WhatsApp Image 2026-04-10 at 18.24.37 (1).jpeg",
+            "photos/Gourmet Classics/Signature Chocolate Chip/WhatsApp Image 2026-04-10 at 18.24.37 (2).jpeg",
+            "photos/Gourmet Classics/Signature Chocolate Chip/WhatsApp Image 2026-04-10 at 18.24.40 (4).jpeg",
+            "photos/Gourmet Classics/Signature Chocolate Chip/filled choco/WhatsApp Image 2026-04-10 at 18.24.33 (2).jpeg"
+          ]
+        },
+        {
+          "id": "double-chocolate-dream",
+          "name": "Double Chocolate Dream",
+          "description": "A deep, cocoa-intense experience. Choose an exotic center like tart Pomegranate or aromatic Cardamom.",
+          "fillings": ["Chocolate", "Peanut Butter", "Cardamom", "Pomegranate", "Bueno", "Lotus", "Marshmallow", "Nutella"],
+          "tags": ["Rich", "Filled"],
+          "baseLabel": "Basic",
+          "photos": [
+            "photos/Gourmet Classics/double choco/482c4c37-3328-4a2b-b524-8aee8246d91b.jpg",
+            "photos/Gourmet Classics/double choco/7bc681dd-21c6-4770-8846-1e7ffea51066.jpg",
+            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.38 (1).jpeg",
+            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.38 (2).jpeg",
+            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.38.jpeg",
+            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.39 (1).jpeg",
+            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.39 (2).jpeg",
+            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.39 (4).jpeg",
+            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.41 (2).jpeg"
+          ],
+          "variants": {
+            "label": "Filling",
+            "options": [
+              {
+                "name": "Cardamom",
+                "photos": [
+                  "photos/Gourmet Classics/double choco/cardimom/WhatsApp Image 2026-04-10 at 18.24.34 (2).jpeg",
+                  "photos/Gourmet Classics/double choco/cardimom/WhatsApp Image 2026-04-10 at 18.24.34 (3).jpeg"
+                ]
+              },
+              {
+                "name": "Marshmallow",
+                "photos": [
+                  "photos/Gourmet Classics/double choco/marshmellow/00852a5c-5a4e-4a11-8b88-fe7351730f21.jpg",
+                  "photos/Gourmet Classics/double choco/marshmellow/de0f197f-d58b-48f0-9f1d-e5f993f45ded.jpg"
+                ]
+              },
+              {
+                "name": "Nutella",
+                "photos": [
+                  "photos/Gourmet Classics/double choco/nutella/WhatsApp Image 2026-04-10 at 18.24.41 (1).jpeg"
+                ]
+              },
+              {
+                "name": "Pomegranate",
+                "photos": [
+                  "photos/Gourmet Classics/double choco/pomegranate/WhatsApp Image 2026-04-10 at 18.24.37.jpeg"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "red-velvet-cookie",
+          "name": "Red Velvet",
+          "description": "Velvety cocoa cookies with a soft center and a subtle cream-cheese style sweetness, finished with a rich ruby crumb.",
+          "tags": ["Velvety", "Cocoa"],
+          "photos": [
+            "photos/Gourmet Classics/red velvet/WhatsApp Image 2026-04-10 at 18.24.34 (1).jpeg"
+          ]
+        },
+        {
+          "id": "brounies",
+          "name": "Brounies",
+          "description": "Ultra-fudgy brownie squares with a glossy crackled top and deep cocoa flavor in every bite.",
+          "tags": ["Fudgy", "Chocolate Lover"],
+          "photos": [
+            "photos/brounies/WhatsApp Image 2026-04-10 at 18.24.40 (5).jpeg",
+            "photos/brounies/WhatsApp Image 2026-04-10 at 18.24.41.jpeg"
+          ]
+        },
+        {
+          "id": "cookie-cake",
+          "name": "Cookie Cake",
+          "description": "A giant soft-baked cookie cake, golden at the edges and chewy in the center, perfect for sharing and celebrations.",
+          "tags": ["Celebration", "Shareable"],
+          "photos": [
+            "photos/cookie cake/6fadac19-d487-4d01-9a06-353ba1e8e37d.jpg",
+            "photos/cookie cake/7de02840-e2d8-42aa-9129-003a6903e9f2.jpg",
+            "photos/cookie cake/9284ac5e-3f3b-44db-871c-73824dd78eff.jpg",
+            "photos/cookie cake/WhatsApp Image 2026-04-10 at 18.24.33.jpeg"
+          ]
+        }
+      ]
+    }
+  ]
+}

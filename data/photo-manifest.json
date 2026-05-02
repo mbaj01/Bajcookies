@@ -1,0 +1,555 @@
+﻿{
+    "generatedAt":  "2026-05-01T21:49:52.4950016+02:00",
+    "source":  "All photos",
+    "sourceCount":  106,
+    "uniqueCount":  105,
+    "duplicateCount":  1,
+    "duplicates":  [
+                       {
+                           "duplicate":  "3c5aa8c2-f848-40f4-932a-569e0fba3404.jfif",
+                           "original":  "3c5aa8c2-f848-40f4-932a-569e0fba3404 (1).jfif",
+                           "hash":  "D7EE9180F3A68094799A842209ACEA10C3AD7958062BDA24CCDDFC79C776572C"
+                       }
+                   ],
+    "buckets":  {
+                    "double-chocolate-base":  [
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-001.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.34.jpeg",
+                                                      "hash":  "2AFCF52F03C44BD0ADDE0C1E8A28F29169E55311B2AF1537C0A2925426DF80B7"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-002.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.37 (1).jpeg",
+                                                      "hash":  "5071CA3952BD4264648CB4356BE1906BE90A45CBAEA4EBB49B0B81BEECED3F3D"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-003.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.37 (2).jpeg",
+                                                      "hash":  "BF66595C5026D9C01AB078E8081A6019C480C0ECA22EC8C6C2FCFEFF2BEAC507"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-004.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.37.jpeg",
+                                                      "hash":  "752837DA552EA76639CB7CF01D902BA8BEED4DF6999B3E54A2ECFB6ADE088720"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-005.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.38 (1).jpeg",
+                                                      "hash":  "F05C637BC3FF5C44EDF9876BAA86FC9B71862645832D30D00D00F3ABCC467D54"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-006.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.38 (2).jpeg",
+                                                      "hash":  "91D9261C6AC104036DF08215D73DDAA0EDE722454F775A131E572ED20C454DFE"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-007.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.38 (3).jpeg",
+                                                      "hash":  "3AB6477D069EB01EE6880475FE3C8F2BC42A79AA8C1FDF986DB7EE94AAEBC4B2"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-008.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.38 (4).jpeg",
+                                                      "hash":  "7A833E063F225252984BAACD92463A1C08E05CF57F38A170C8283E31C14FE2A3"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-009.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.38.jpeg",
+                                                      "hash":  "9CE0B684DCF4548A043EFECCFDE2B162A8D35D9B2D26844E31BE5B75D7BAFA9E"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-010.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.39 (1).jpeg",
+                                                      "hash":  "B508A0FB71E828B891E427B2C08FF4D23B9DEA4661FA4C3F181661C13F00BF82"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-011.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.39 (2).jpeg",
+                                                      "hash":  "B564EB5A5F8F5A5200DBDCA6C7ED9492BD49832FC386CD11E02507899C12DF04"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-012.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.39 (3).jpeg",
+                                                      "hash":  "5BFA494D6ABB5F51F8D39350E3E9D099C785A8DD748BC068337FB74D5E7F451A"
+                                                  },
+                                                  {
+                                                      "file":  "assets/images/menu/double-chocolate-base/img-013.jpeg",
+                                                      "original":  "WhatsApp Image 2026-04-10 at 18.24.39 (4).jpeg",
+                                                      "hash":  "9EACC6A3DBDFA7C8E2EBF33834C354ACD9E9CF196C0E298FA0DD9B4249609AE9"
+                                                  }
+                                              ],
+                    "signature-crinkles":  [
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-001.jfif",
+                                                   "original":  "6b0b37a5-03f4-4eea-aa5e-1ed010c7d274.jfif",
+                                                   "hash":  "F4339BC6D15E4DB6553601B2B60DE896E3D046FB950B230B88883346DCDDDD5A"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-002.jfif",
+                                                   "original":  "6b8abe41-62d3-48d4-a262-6f327165b8b9.jfif",
+                                                   "hash":  "E43E6680AB842F7F4CD9E000B0B352A4F9364A83B39E476D2589BDC8C4EB04F5"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-003.jfif",
+                                                   "original":  "6bc98774-54fd-4d6e-9d04-c5909237bcd3.jfif",
+                                                   "hash":  "CC1DE6E4CE578CBB3D300685D8EE9CDD8A393999C03ADA99303B5A09D760B808"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-004.jfif",
+                                                   "original":  "6d1e12a1-f219-4f54-8367-db6bf83d26d6.jfif",
+                                                   "hash":  "BE97255DBD03D7357DE4B5B5A9A7BCECC4233394C615FE2EA140D72B1EC426CC"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-005.jfif",
+                                                   "original":  "6fadac19-d487-4d01-9a06-353ba1e8e37d.jfif",
+                                                   "hash":  "E9B7789CADF77010FF1E6A49737AC155850DD50887CB5BF9057124AC05093804"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-006.jfif",
+                                                   "original":  "77ea341f-8b3f-47bc-a8a7-bbd95110935c.jfif",
+                                                   "hash":  "B77D1EE9009C0A10BEEA7420F0565D264C37978E73592099D9DEE586321ACAE5"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-007.jfif",
+                                                   "original":  "7bc681dd-21c6-4770-8846-1e7ffea51066.jfif",
+                                                   "hash":  "EC3F18BBA8DC571D85067A731B9D6905848E446A853328DA0F174F3D22733D5E"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-008.jfif",
+                                                   "original":  "7de02840-e2d8-42aa-9129-003a6903e9f2.jfif",
+                                                   "hash":  "6DFC2B4992684FAE241461BD8639328075CDFC5745F71EF1B6A43A8F6274B3AC"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-009.jfif",
+                                                   "original":  "82103488-b471-4fe2-a9ea-3d37a6b73a9f.jfif",
+                                                   "hash":  "DFAC246C6DF5C07AC957C6AA9A4018476A95D1C95D6199FF70AC985B2C0ABFE8"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-010.jfif",
+                                                   "original":  "859e97f1-05c8-4222-b4d2-25c0175ee98b.jfif",
+                                                   "hash":  "076A23F8779609D8FC29BB5CC7665C27EDF03012FF0E788873346E464630D8AE"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-011.jfif",
+                                                   "original":  "86146298-2096-461e-b88d-7c5724d7c5ce.jfif",
+                                                   "hash":  "8249734A5CB83F4D983BE3A561A811B89C4BF5D40ED5D9D3F2ED548A7DF64285"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-012.jfif",
+                                                   "original":  "8aed69c1-200d-4891-b093-e310c186453d.jfif",
+                                                   "hash":  "8C1B54AE324DF81555B346F681D7F131486BE93AD72FE4467D11FAB4AC52FCAA"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-013.jfif",
+                                                   "original":  "8baf0d7f-7cf0-4473-9e02-1ce1a0153e2d.jfif",
+                                                   "hash":  "A9B4F0B31F48A008DDF4AB40B6A87D73C6120A4CEC76032DB8DC1B1967CF0086"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-014.jfif",
+                                                   "original":  "9284ac5e-3f3b-44db-871c-73824dd78eff.jfif",
+                                                   "hash":  "44462B96B535D26F8B64E4622C15EE912091EDEA9596BDF7FB12ADCFB37A8976"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-015.jfif",
+                                                   "original":  "9542e914-c4ec-488d-91b3-0e8562075744.jfif",
+                                                   "hash":  "3AB99D5F541300FE5FA6464DF9A581B69CC3C9E6E0CA2E5FBE21C9715A47C946"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/signature-crinkles/img-016.jfif",
+                                                   "original":  "954e900f-88bf-4294-8ccf-9c9de07c8ee1.jfif",
+                                                   "hash":  "3A62B91B97FC69B24339675E68AD1267D9A208653BAEC76774EFA477B6162AB5"
+                                               }
+                                           ],
+                    "signature-chocolate-chip":  [
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-001.jfif",
+                                                         "original":  "dfc60da7-08cc-4b5f-9da1-09668ec509fc.jfif",
+                                                         "hash":  "884CDDAB542B51A383262C6A15C3CAAC43B5265168A0C34272558500503A1E6E"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-002.jfif",
+                                                         "original":  "e73e0b02-60a6-4ef1-9f79-476f52402a28.jfif",
+                                                         "hash":  "C924B73CF933F8447E429822899E1EFA36CCED91DB211F8BAF66C16215B005C8"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-003.jfif",
+                                                         "original":  "f1c64c3c-51a9-47e1-94c4-e68055db17c1.jfif",
+                                                         "hash":  "342E3FDE49BCB5A00B0BF7E77B256A2DC218E5E2A59FB622E55CE872D6CAA18F"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-004.jfif",
+                                                         "original":  "f4c4094a-ee24-4df7-8266-68dede99e043.jfif",
+                                                         "hash":  "8E480DA6BE086E182F3401FB1D499A70DD54C71B42645B8867CC3D42F94E4F9F"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-005.jfif",
+                                                         "original":  "f4f37706-6708-406e-baa5-32df8d6de707.jfif",
+                                                         "hash":  "334F0C08AC19066C9C6C82F5EEAD3D0130489322C26ABDFECD3E16D12D63073C"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-006.jfif",
+                                                         "original":  "f915a54e-4cd1-4fd1-953c-6707c0b38305.jfif",
+                                                         "hash":  "23F7EBE7D34B0383F16B0024CFA7F362ED1E84D82C4AF6D39AC7B4F610680652"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-007.jfif",
+                                                         "original":  "fa4f96fe-7a41-44d2-b2ac-af73ff9987a8.jfif",
+                                                         "hash":  "D1B65F13566A59ABAD25C21D2AF6D44869BFFC8D9CCE0CA484035004C47B352B"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-008.jpeg",
+                                                         "original":  "WhatsApp Image 2026-04-10 at 18.24.33 (1).jpeg",
+                                                         "hash":  "BA7E66C5BAE3EA5F6171CF7AF1D424E1809282BDB2C9AC625258333C3E4BF0A3"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-009.jpeg",
+                                                         "original":  "WhatsApp Image 2026-04-10 at 18.24.33 (2).jpeg",
+                                                         "hash":  "0B5C267832A0C0549F9461AC1D83F14166308918516CE6FD629A0DADBA9FECC7"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-010.jpeg",
+                                                         "original":  "WhatsApp Image 2026-04-10 at 18.24.33.jpeg",
+                                                         "hash":  "08DEE94D0434E25EEAC4A9E7304B5CEAF94A1BDD25E5FC7B3CDDB8AE3BE3A299"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-011.jpeg",
+                                                         "original":  "WhatsApp Image 2026-04-10 at 18.24.34 (1).jpeg",
+                                                         "hash":  "24B93185A4A2E747D53DA84166873944DFFC6357288A76E4A7642B11749E9065"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-012.jpeg",
+                                                         "original":  "WhatsApp Image 2026-04-10 at 18.24.34 (2).jpeg",
+                                                         "hash":  "CAA2E83B031C63494989A023E6EE3CDE1991F598EF43AEC9A3973BDFA3A6791E"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/signature-chocolate-chip/img-013.jpeg",
+                                                         "original":  "WhatsApp Image 2026-04-10 at 18.24.34 (3).jpeg",
+                                                         "hash":  "557554D01B3ED952166B4AFD165B3F4B18532B60364A8820E8137829E81FE738"
+                                                     }
+                                                 ],
+                    "golden-spice-chunk":  [
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-001.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.39 (5).jpeg",
+                                                   "hash":  "138A5CAFDF165E22FAEBA39C33955584B762594D0C21AEA529F360E942552E6C"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-002.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.39.jpeg",
+                                                   "hash":  "375F04BD1C58405B8C52A9FB236BCC68A8CB855D6475BBDBA830B5761A20519C"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-003.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.40 (1).jpeg",
+                                                   "hash":  "50339CE62026B010EDE893B310E2639149C141D54CEA890599084A8CE5B81296"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-004.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.40 (2).jpeg",
+                                                   "hash":  "7B3F362AEE0FD3968072158016D7A4CBD7A0FAFC640C04601B91C72E5EBAB808"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-005.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.40 (3).jpeg",
+                                                   "hash":  "5779EF0D2847B56A7C9F12859A6AE185BA17D69110EE8D06851D6482C59E8B6D"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-006.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.40 (4).jpeg",
+                                                   "hash":  "68D3B21A381DDAB99F4EDBD7BEB4CB58B1212EA4F19B02FBA6138B6803DE61D7"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-007.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.40 (5).jpeg",
+                                                   "hash":  "F824AABED7C88D847700097D6D9FDC906FC3E1F9D8A995F986C6BA841EC1839F"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-008.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.40.jpeg",
+                                                   "hash":  "1E35A4CE474BD44B092D587B5A78D382C2AC299D8F56FBABF4A7A5700102AC45"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-009.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.41 (1).jpeg",
+                                                   "hash":  "7CE96EC2E3D427088BB06060CB7FF00775F8C9E64D943B42DCB29C21EA6ECE62"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-010.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.41 (2).jpeg",
+                                                   "hash":  "977C2FD6A64AD6C3CB2C18C0EF34EBD2FC928EE4C8DB51B74EED04864EFBF963"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-011.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.41 (3).jpeg",
+                                                   "hash":  "0C035F5EAD88FB0CFE40E8EB0B32AF641058A2A16C5C2DEDD52E413A5ACDD535"
+                                               },
+                                               {
+                                                   "file":  "assets/images/menu/golden-spice-chunk/img-012.jpeg",
+                                                   "original":  "WhatsApp Image 2026-04-10 at 18.24.41.jpeg",
+                                                   "hash":  "96260DACE669B8856E60F518111C632246A7083F3B5C1E768DA6DBA4D554C3EE"
+                                               }
+                                           ],
+                    "free-from-pb-cookies":  [
+                                                 {
+                                                     "file":  "assets/images/menu/free-from-pb-cookies/img-001.jfif",
+                                                     "original":  "b45155bc-c2fb-4a7a-904b-a7ed581fe346.jfif",
+                                                     "hash":  "3A0CFED908132BE92FD59ECADC209B1419EED5A1994C197A58694A78CD9FF176"
+                                                 },
+                                                 {
+                                                     "file":  "assets/images/menu/free-from-pb-cookies/img-002.jfif",
+                                                     "original":  "bd79fa75-a130-4e5f-8639-4cfdd4546def.jfif",
+                                                     "hash":  "1338D690E487FEA218EB88B767A37ED3B1CB590D8B97B66DF8F87B5E83B67457"
+                                                 },
+                                                 {
+                                                     "file":  "assets/images/menu/free-from-pb-cookies/img-003.jfif",
+                                                     "original":  "c1386119-e8b8-44d2-8ffd-17a92cfb706a.jfif",
+                                                     "hash":  "9F3BE2D32A4F79C654814FFDC991D2FC2185EE5FCE33BFFD107F63BD9F5E915E"
+                                                 },
+                                                 {
+                                                     "file":  "assets/images/menu/free-from-pb-cookies/img-004.jfif",
+                                                     "original":  "c5a1d6a9-99bc-4168-8454-fe15dd47c109.jfif",
+                                                     "hash":  "0FCC987BE7E319D5FD544E7387144594C55C899A158B3B1D69C98618B1131BDB"
+                                                 },
+                                                 {
+                                                     "file":  "assets/images/menu/free-from-pb-cookies/img-005.jfif",
+                                                     "original":  "c78244b9-e678-4bef-ad99-adb1a5bd3db7.jfif",
+                                                     "hash":  "B7455E15A2A503E91A81CAA1E8D112DAA5A697890B72305C58F83AFFDCE81F48"
+                                                 },
+                                                 {
+                                                     "file":  "assets/images/menu/free-from-pb-cookies/img-006.jfif",
+                                                     "original":  "cab90a4c-6c19-4d70-881b-053c6776d50f.jfif",
+                                                     "hash":  "19A9F6641585A608A0AC2835C62A8EA995CFC3F780520EC2BF4800FEEB40F2A3"
+                                                 },
+                                                 {
+                                                     "file":  "assets/images/menu/free-from-pb-cookies/img-007.jfif",
+                                                     "original":  "d6a212f6-c4c0-42ca-b7c5-b0dd5ad93bfb.jfif",
+                                                     "hash":  "93E6EB51DBA2E88F96B23B4CFFAE2EF4EB44DA8615D77BF51999C3CCCB5FEA9E"
+                                                 },
+                                                 {
+                                                     "file":  "assets/images/menu/free-from-pb-cookies/img-008.jfif",
+                                                     "original":  "dcccbae3-847a-4d91-9b00-511850a6ebe8.jfif",
+                                                     "hash":  "D706F4F3629CD14F1147A9C9FE6BDF0A0DCC9EF8A74BBF784A35A1D25FACB899"
+                                                 },
+                                                 {
+                                                     "file":  "assets/images/menu/free-from-pb-cookies/img-009.jfif",
+                                                     "original":  "de0f197f-d58b-48f0-9f1d-e5f993f45ded.jfif",
+                                                     "hash":  "35181877C0E6CD7F6D82B469F2265FEE0CF929EB2BC972FAFC338E27FC580D42"
+                                                 },
+                                                 {
+                                                     "file":  "assets/images/menu/free-from-pb-cookies/img-010.jfif",
+                                                     "original":  "deb54950-2ec7-4160-a0b8-53dd0df1302f.jfif",
+                                                     "hash":  "1D451A1D3A68FDEB99D8AE4135195EB8166B464D664D07B5F17EF39CB0550DEE"
+                                                 }
+                                             ],
+                    "custom-art-sugar-cookies":  [
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-001.jfif",
+                                                         "original":  "00852a5c-5a4e-4a11-8b88-fe7351730f21.jfif",
+                                                         "hash":  "84627670A7509B80FBB09D6A774AE67A6F46CCC0005A1E71EE6834C1A943D3C5"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-002.jfif",
+                                                         "original":  "097727d3-4973-4ffb-9dd7-ea87f8d5a20d.jfif",
+                                                         "hash":  "93C22FB5A743E16DCA4E8446904BA2275540254FD9CD87278A58257478897FF9"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-003.jfif",
+                                                         "original":  "0bf49f37-fd49-45e0-9ec6-46e2d53cbcfd.jfif",
+                                                         "hash":  "F34D405BE034BFE381C35D54A6CCBC5BD2753B110189C796C1F360F6904CFFCC"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-004.jfif",
+                                                         "original":  "0c6a158c-4f08-437c-999a-a5f8191bdf66.jfif",
+                                                         "hash":  "74EEA77BEAB18DF29CD86D4CCB7F6A01409869E4596D2AEAF05FAEBAB7E7196F"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-005.jfif",
+                                                         "original":  "107cac7e-e058-4977-a88a-559ba11aec36.jfif",
+                                                         "hash":  "D54A0C07EEE58B2280838A5424DD44AA871EC9494253FEBD6C8C64AE562802F7"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-006.jfif",
+                                                         "original":  "10ea01d4-63dc-4d5a-9bf3-0eeb5fa6cb2c.jfif",
+                                                         "hash":  "BB96D4C45A2DFC652C7DF3F008B246A43F551247B10C6041963A842A0F3CBE9E"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-007.jfif",
+                                                         "original":  "135b4755-597d-43e8-be86-346d8eec6b48.jfif",
+                                                         "hash":  "2FB7DAB202C8D2C8A7673ED0B743F9B38A16997064D6D29A1DE7D3DE7B63AB23"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-008.jfif",
+                                                         "original":  "151b9a8e-5a95-49f7-aa20-c77331554726.jfif",
+                                                         "hash":  "11F93FCF8E316C349ADDE3BEE24A62C25AD97882576DA8B84B4BC66FA9EB7264"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-009.jfif",
+                                                         "original":  "17e4ddf1-8bd3-4685-a15f-eaa911001e77.jfif",
+                                                         "hash":  "06BA7E26D63F8DB41E8047219A8B309DE49381EFC32B8C7E2C3E502EE3BCF3FA"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-010.jfif",
+                                                         "original":  "191be7c4-95b1-4cfa-9ee5-7615b2e0edd6.jfif",
+                                                         "hash":  "A8EFF78B1CAE3F581105E4F01721E766FCFE391A97D8F25B2A4755F4E82DC658"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-011.jfif",
+                                                         "original":  "1cab3ba4-9c8b-44cd-b3be-e1870ea64b7e.jfif",
+                                                         "hash":  "CA7BF39F64A1162D553EA1589EAD23AB5FA4B9E70F6FFD4F5AEB25F185F20A90"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-012.jfif",
+                                                         "original":  "1cea1327-e205-451d-a119-105279836fb6.jfif",
+                                                         "hash":  "8161E35F894D2E6C5220187B70192EDA5E22A976604798F7083CC7608014D53D"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-013.jfif",
+                                                         "original":  "22519f29-b1f0-4494-a097-5324a1ff6228.jfif",
+                                                         "hash":  "6ABE8632069DE7FABAE412F59D06AE0D6556098D6906A4C4604C3C127E238EA5"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-014.jfif",
+                                                         "original":  "25e277f1-39e6-48bd-baaa-42aef2c53912.jfif",
+                                                         "hash":  "5C9BF86EB07348F57797C570FB0619295B0A495F69F8C75829A461F0260D1C5D"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-015.jfif",
+                                                         "original":  "28394ff6-4239-439a-9742-f52815b407de.jfif",
+                                                         "hash":  "28BC2D48F261B2DD61C75A1E513BB0B540FC0DEDC47BADD26B2AC909149CD5D1"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-016.jfif",
+                                                         "original":  "2a3331b5-261b-4194-a994-c6d7b81fdada.jfif",
+                                                         "hash":  "430CE0A4AD52CC4A1083A5CAD8FFE61E9A0CD357B97B31B70A2E9FE5D587D332"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-017.jfif",
+                                                         "original":  "2a977628-e08f-49c0-a8f7-b573b226869f.jfif",
+                                                         "hash":  "9E6B9DCFCE2FB844708B6D7A575CC36BAEB8402084C6751BDC34D2E5F71624C1"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-018.jfif",
+                                                         "original":  "3b886d24-39d6-4d13-b9b5-2eae6cbda5c7.jfif",
+                                                         "hash":  "4E45BDBFE9F02464F03BA107F2F58CD4CDB4C0B28A6EC92D961A98A3470F3BFE"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-019.jfif",
+                                                         "original":  "3c5aa8c2-f848-40f4-932a-569e0fba3404 (1).jfif",
+                                                         "hash":  "D7EE9180F3A68094799A842209ACEA10C3AD7958062BDA24CCDDFC79C776572C"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-020.jfif",
+                                                         "original":  "3c909695-ba08-47f7-8f72-7210a24ddab8.jfif",
+                                                         "hash":  "8234D7B12493BF86CF920C0755D489F6751F325D1B2140C16671F771CE1C0DC2"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-021.jfif",
+                                                         "original":  "3e644915-462f-4a4e-b3cd-006bf638bac5.jfif",
+                                                         "hash":  "E9F5E6FD2E10BEA1A394F749B757D073ED23B04DAFFD9398BABC1B56D5360FAC"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-022.jfif",
+                                                         "original":  "4333c4af-1a9a-4a80-b1fd-b41328b44515.jfif",
+                                                         "hash":  "E4BF4496D24494331117360194B6F9F97078C879F64CB5D9469DDCFFC8651CCF"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-023.jfif",
+                                                         "original":  "4472125d-a565-4ce4-8ada-c061f18f6147.jfif",
+                                                         "hash":  "93C99D52360E427704680CAC1AE85E4C3F5129F189F62146CCF065DB6581969F"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-024.jfif",
+                                                         "original":  "482c4c37-3328-4a2b-b524-8aee8246d91b.jfif",
+                                                         "hash":  "3EEBADA1ED5027C88E8A28D710C770013490CDEBD1DCA405D23E8A457FA0C04F"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-025.jfif",
+                                                         "original":  "526b5dfa-02f1-4aac-95d3-3ed928ad063a.jfif",
+                                                         "hash":  "8F76D714244E687523050E7295BC73BEA20674C2454C2D5C971EEB395E625121"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-026.jfif",
+                                                         "original":  "53d2f06a-4f5f-48ff-be39-3c9cb22d03aa.jfif",
+                                                         "hash":  "EBE6C67CACC65BD32EFEA2EAA41AFBD2D7DD5263D9D56791351AC5157808F226"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-027.jfif",
+                                                         "original":  "55270a92-764e-460c-86f5-dbcc6df2f06a.jfif",
+                                                         "hash":  "02FB70785B57B258B6D4377624BA60E29FC9890D4F117093125C233E683DEDAD"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-028.jfif",
+                                                         "original":  "57991ad5-8d51-40cc-8ec9-7d82edc67705.jfif",
+                                                         "hash":  "69A6598D334499ED604D4836C53DEBCC4B50E42666331AB22BC4F6D019C4811E"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-029.jfif",
+                                                         "original":  "5bf927d7-d64e-41d5-a28a-e09e379fd7db.jfif",
+                                                         "hash":  "186CE6DC60DA957920D40AE629D1C541A9ACF101287B424E192DF0261BAA6248"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-030.jfif",
+                                                         "original":  "5f52eb47-5839-44c0-9c0c-bb9ff6207ba5.jfif",
+                                                         "hash":  "C346D0956703E0226939CC4DE38BBB4F22A67F7D3FCC0F750CE81ADFA4F093A1"
+                                                     },
+                                                     {
+                                                         "file":  "assets/images/menu/custom-art-sugar-cookies/img-031.jfif",
+                                                         "original":  "63cf5a3d-2cfd-4327-a475-3e57612b7cac.jfif",
+                                                         "hash":  "FB11FE94A296F274084B6C2104EC3DF6927C570874791B297D2197A051FDB1CC"
+                                                     }
+                                                 ],
+                    "fruit-grain-cookies":  [
+                                                {
+                                                    "file":  "assets/images/menu/fruit-grain-cookies/img-001.jfif",
+                                                    "original":  "9b2f07c1-0344-4d3d-a9a5-ab521a387937.jfif",
+                                                    "hash":  "316E94337E249FFAE3BF3377C55B1A7B17901F88B8A2834ECB32C3C9BB9C0213"
+                                                },
+                                                {
+                                                    "file":  "assets/images/menu/fruit-grain-cookies/img-002.jfif",
+                                                    "original":  "9b90f157-b889-44f3-8817-d786cbba2b93.jfif",
+                                                    "hash":  "58ACB59D7034F691222AC5E8B7C1F70FEE2BC78E13CCA5D408E2AC7445CC0558"
+                                                },
+                                                {
+                                                    "file":  "assets/images/menu/fruit-grain-cookies/img-003.jfif",
+                                                    "original":  "9d624624-b2ff-489b-bee8-ff56caed5f16.jfif",
+                                                    "hash":  "7F7E8B21B056A3D291CBA7E9823375642DACA789F7CF7EFF6D5C2365778F4691"
+                                                },
+                                                {
+                                                    "file":  "assets/images/menu/fruit-grain-cookies/img-004.jfif",
+                                                    "original":  "9eeb49a3-991c-43ad-80c4-be017689bdf3.jfif",
+                                                    "hash":  "D7A229D6D4533AF46D2E5BCA81FA55C9D0353ECA559F3D18B7EC704AB92F51F2"
+                                                },
+                                                {
+                                                    "file":  "assets/images/menu/fruit-grain-cookies/img-005.jfif",
+                                                    "original":  "a0176687-5188-4f31-907c-a850adb50c41.jfif",
+                                                    "hash":  "EAC23765EA6F04B00B74E443C7A43D8449BE8E72911D954573B675C2F513970A"
+                                                },
+                                                {
+                                                    "file":  "assets/images/menu/fruit-grain-cookies/img-006.jfif",
+                                                    "original":  "a2f09c3b-70c5-4c6a-b68d-6e673c63855a.jfif",
+                                                    "hash":  "A89F6E10E4741A187F6E74B5AF93DF7B738EFA39D211DFFC840069B3F8332913"
+                                                },
+                                                {
+                                                    "file":  "assets/images/menu/fruit-grain-cookies/img-007.jfif",
+                                                    "original":  "a351b955-ee28-4991-b755-0e8fa0d2a5a6.jfif",
+                                                    "hash":  "A23C8A70F2E0C4D88399F4E02E21CD3437D0333D952783A97FAC55DB56DAEF75"
+                                                },
+                                                {
+                                                    "file":  "assets/images/menu/fruit-grain-cookies/img-008.jfif",
+                                                    "original":  "a4163333-c5d1-411d-8892-149de1de7dc1.jfif",
+                                                    "hash":  "4E3EEE5F0BD1EEB7ED810068C484501AC0947FDACB3BB82B7A6336627CE4FE08"
+                                                },
+                                                {
+                                                    "file":  "assets/images/menu/fruit-grain-cookies/img-009.jfif",
+                                                    "original":  "a59fe2b3-57ac-4f5a-a1f7-00c77f85384a.jfif",
+                                                    "hash":  "BF9C7AA6BD0B0A31011A183E3E2F41D2936E3DF6B8E3BADADF912039A85EED24"
+                                                },
+                                                {
+                                                    "file":  "assets/images/menu/fruit-grain-cookies/img-010.jfif",
+                                                    "original":  "a5d2ccfa-c5b7-47fe-8dc7-89011ea31ae2.jfif",
+                                                    "hash":  "DEE2E4D05E26F5F009A788C3FA39427F01117A493181ED3D6B28A9B0D03C0598"
+                                                }
+                                            ]
+                }
+}
