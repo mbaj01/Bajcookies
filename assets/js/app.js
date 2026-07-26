@@ -480,16 +480,10 @@ function renderNav(categories) {
   });
 }
 
-function renderContactBubble(links = DEFAULT_CONTACT_LINKS) {
-  const oldNode = document.querySelector(".contact-fab");
-  if (oldNode) oldNode.remove();
-
-  const root = el("div", "contact-fab");
-  const panel = el("div", "contact-fab__panel");
-  panel.setAttribute("aria-hidden", "true");
-
-  const panelTitle = el("p", "contact-fab__title", "Contact us");
-  panel.appendChild(panelTitle);
+function renderHeaderContacts(links = DEFAULT_CONTACT_LINKS) {
+  const root = document.getElementById("brand-social");
+  if (!root) return;
+  root.innerHTML = "";
 
   const contactRows = [
     {
@@ -511,40 +505,15 @@ function renderContactBubble(links = DEFAULT_CONTACT_LINKS) {
 
   contactRows.forEach((row) => {
     if (!row.href) return;
-    const a = el("a", "contact-fab__link");
+    const a = el("a", "brand-social__link");
     a.href = row.href;
     a.target = "_blank";
     a.rel = "noopener noreferrer";
     a.setAttribute("aria-label", row.label);
-    a.innerHTML = `
-      <span class="contact-fab__icon" aria-hidden="true">${row.icon}</span>
-      <span class="contact-fab__link-label">${row.label}</span>
-    `;
-    panel.appendChild(a);
+    a.title = row.label;
+    a.innerHTML = row.icon;
+    root.appendChild(a);
   });
-
-  const toggle = el("button", "contact-fab__toggle", "Contact");
-  toggle.type = "button";
-  toggle.setAttribute("aria-label", "Open contact links");
-  toggle.setAttribute("aria-expanded", "false");
-
-  toggle.addEventListener("click", () => {
-    const isOpen = root.classList.toggle("open");
-    toggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
-    panel.setAttribute("aria-hidden", isOpen ? "false" : "true");
-  });
-
-  document.addEventListener("click", (e) => {
-    if (!root.classList.contains("open")) return;
-    if (root.contains(e.target)) return;
-    root.classList.remove("open");
-    toggle.setAttribute("aria-expanded", "false");
-    panel.setAttribute("aria-hidden", "true");
-  });
-
-  root.appendChild(panel);
-  root.appendChild(toggle);
-  document.body.appendChild(root);
 }
 
 function renderItem(item, currency) {
@@ -619,7 +588,7 @@ function renderMenu(menu) {
 
 (async function init() {
   setupLightbox();
-  renderContactBubble(DEFAULT_CONTACT_LINKS);
+  renderHeaderContacts(DEFAULT_CONTACT_LINKS);
   try {
     const menu = await loadMenu();
     renderBrand(menu);
@@ -627,7 +596,7 @@ function renderMenu(menu) {
     renderMenu(menu);
 
     if (menu.brand && menu.brand.contacts) {
-      renderContactBubble({
+      renderHeaderContacts({
         whatsapp: menu.brand.contacts.whatsapp || DEFAULT_CONTACT_LINKS.whatsapp,
         instagram: menu.brand.contacts.instagram || DEFAULT_CONTACT_LINKS.instagram,
         facebook: menu.brand.contacts.facebook || DEFAULT_CONTACT_LINKS.facebook
