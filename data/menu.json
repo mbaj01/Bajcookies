@@ -19,7 +19,7 @@
         {
           "id": "art-sugar-cookies",
           "name": "Custom Art Sugar Cookies",
-          "description": "More than just a cookie—it's a canvas. Hand-painted and tailored for your most cherished celebrations. Crisp, buttery, and intricately decorated.",
+          "description": "Artisan, handcrafted freshly baked cookies for every taste and occasion. Highly artistic cookies customized for every occasion. Artisan cookies that look as unforgettable as they taste. Sugar cookies are 1 JD per piece, and you can add your own special touches.",
           "buildYourOwn": true,
           "tags": ["Custom", "Seasonal"],
           "photos": [],
@@ -256,9 +256,12 @@
           "description": "A giant soft-baked cookie cake, golden at the edges and chewy in the center, perfect for sharing and celebrations.",
           "tags": ["Celebration", "Shareable"],
           "photos": [
-            "photos/cookie cake/6fadac19-d487-4d01-9a06-353ba1e8e37d.jpg",
+            "photos/cookie cake/main.jpg",
+            "photos/cookie cake/123.jpg",
+            "photos/cookie cake/4c456134-7cf8-46df-9a33-6754177fdbc2.jpg",
+            "photos/cookie cake/a00b8394-6bf9-4701-9f4a-4b4acd72f56a.jpg",
+            "photos/cookie cake/c2eb1177-e535-46e3-9ca0-66cbb76ab136.jpg",
             "photos/cookie cake/7de02840-e2d8-42aa-9129-003a6903e9f2.jpg",
-            "photos/cookie cake/9284ac5e-3f3b-44db-871c-73824dd78eff.jpg",
             "photos/cookie cake/WhatsApp Image 2026-04-10 at 18.24.33.jpeg"
           ]
         }
