@@ -478,6 +478,20 @@ function renderNav(categories) {
     link.textContent = cat.name;
     nav.appendChild(link);
   });
+
+  nav.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", (event) => {
+      const targetId = link.getAttribute("href").slice(1);
+      const target = document.getElementById(targetId);
+      if (!target) return;
+
+      event.preventDefault();
+      const header = document.querySelector(".hero");
+      const headerHeight = header ? header.getBoundingClientRect().height : 0;
+      const targetTop = window.scrollY + target.getBoundingClientRect().top - headerHeight - 12;
+      window.scrollTo({ top: Math.max(0, targetTop), behavior: "smooth" });
+    });
+  });
 }
 
 function renderHeaderContacts(links = DEFAULT_CONTACT_LINKS) {
@@ -523,7 +537,17 @@ function renderItem(item, currency) {
   const body = el("div", "item__body");
   const titleRow = el("div", "item__title-row");
   titleRow.appendChild(el("h3", "", item.name));
-  titleRow.appendChild(el("span", "price", item.price ? `${item.price} ${currency}` : "Price on request"));
+  let priceText = "Price on request";
+  if (item.packages && item.packages.length >= 2 && item.price) {
+    const filledPackage = item.packages.find((entry) => /2\.00\s*JD|2\s*JD/i.test(entry));
+    const filledPrice = filledPackage ? (filledPackage.match(/\d+(?:\.\d+)?/) || ["2"])[0] : "2";
+    priceText = `${item.price} ${currency} / ${filledPrice} ${currency}`;
+  } else if (item.price) {
+    priceText = `${item.price} ${currency}`;
+  } else if (item.packages && item.packages.length) {
+    priceText = "Check pricing below";
+  }
+  titleRow.appendChild(el("span", "price", priceText));
   body.appendChild(titleRow);
 
   body.appendChild(el("p", "item__desc", item.description || ""));
@@ -544,7 +568,8 @@ function renderItem(item, currency) {
     ["Fillings", item.fillings],
     ["Flavors", item.flavors],
     ["Ingredients", item.ingredients],
-    ["Key Notes", item.keyNotes]
+    ["Key Notes", item.keyNotes],
+    ["Pricing & Packages", item.packages]
   ];
   detailGroups.forEach(([label, values]) => {
     if (!Array.isArray(values) || !values.length) return;

@@ -4,81 +4,154 @@
     "tagline": "Artisan cookies for every mood and season",
     "logo": "photos/logo.jpg"
   },
-  "currency": "EGP",
+  "currency": "JD",
   "notes": [
     "All cookies are made fresh to order.",
-    "Ask about gift boxes and event trays.",
-    "Customization and bulk orders are welcome."
+    "Ask about gift boxes, dessert tables, and event trays.",
+    "Customization and bulk orders are welcome.",
+    "One cookie is never enough... so why stop at one?"
   ],
   "categories": [
     {
-      "id": "signature-art-seasonal",
-      "name": "Signature Art & Seasonal",
-      "description": "High-visual impact, customizable items",
+      "id": "custom-art-sugar-cookies",
+      "name": "Custom Art Sugar Cookies",
+      "description": "Freshly baked, handcrafted, and made with love—every cookie is a miniature work of art, thoughtfully designed to bring your ideas, celebrations, and special moments to life. Simple Designs 1.00 JD • Detailed Designs 1.50 JD • Premium & Fully Customized 2.00 JD per cookie. Gift Boxes: 6 – 6 JD • 12 – 12 JD • 20 – 20 JD (from).",
       "items": [
         {
           "id": "art-sugar-cookies",
           "name": "Custom Art Sugar Cookies",
-          "description": "Artisan, handcrafted freshly baked cookies for every taste and occasion. Highly artistic cookies customized for every occasion. Artisan cookies that look as unforgettable as they taste. Sugar cookies are 1 JD per piece, and you can add your own special touches.",
+          "description": "Every Cookie Tells a Story. Whether you're celebrating a birthday, wedding, baby shower, corporate event, or simply looking for a meaningful gift, our fully customizable cookies are crafted to match your unique theme, colors, and vision. Beautiful enough to impress, delicious enough to remember.",
           "buildYourOwn": true,
-          "tags": ["Custom", "Seasonal"],
+          "tags": ["Custom", "Seasonal", "Handcrafted"],
+          "packages": [
+            "Simple Designs – 1.00 JD per cookie",
+            "Detailed Designs – 1.50 JD per cookie",
+            "Premium & Fully Customized – 2.00 JD per cookie",
+            "Gift Box of 6 – from 6 JD",
+            "Gift Box of 12 – from 12 JD",
+            "Gift Box of 20 – from 20 JD"
+          ],
           "photos": [],
           "variants": {
             "label": "Theme",
             "options": [
               {
-                "name": "Others",
+                "name": "Christmas",
                 "photos": [
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/2a3331b5-261b-4194-a994-c6d7b81fdada.jpg",
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/6b0b37a5-03f4-4eea-aa5e-1ed010c7d274.jpg",
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/dfc60da7-08cc-4b5f-9da1-09668ec509fc.jpg"
+                  "photos/masterpiece cookies -sugar cookies/christmas/1.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/christmas/2.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/christmas/3.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/christmas/4.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/christmas/5.jpeg"
                 ]
               },
               {
-                "name": "Eid",
+                "name": "Circassian",
                 "photos": [
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/eid/63cf5a3d-2cfd-4327-a475-3e57612b7cac.jpg",
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/eid/6b8abe41-62d3-48d4-a262-6f327165b8b9.jpg",
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/eid/6d1e12a1-f219-4f54-8367-db6bf83d26d6.jpg",
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/eid/f915a54e-4cd1-4fd1-953c-6707c0b38305.jpg"
+                  "photos/masterpiece cookies -sugar cookies/circassian/1.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/circassian/2.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/circassian/3.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/circassian/4.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/circassian/5.jpeg"
                 ]
               },
               {
-                "name": "Ramadan",
+                "name": "Hajj",
                 "photos": [
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/ramadan/82103488-b471-4fe2-a9ea-3d37a6b73a9f.jpg"
+                  "photos/masterpiece cookies -sugar cookies/haj/haj1.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/haj/haj2.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/haj/haj3.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/haj/haj4.jpeg"
                 ]
               },
               {
                 "name": "Halloween",
                 "photos": [
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/haloween/151b9a8e-5a95-49f7-aa20-c77331554726.jpg",
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/haloween/9eeb49a3-991c-43ad-80c4-be017689bdf3.jpg"
+                  "photos/masterpiece cookies -sugar cookies/halloween/1.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/halloween/2.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/halloween/3.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/halloween/4.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/halloween/5.jpeg"
                 ]
               },
               {
-                "name": "Christmas",
+                "name": "Jeeps",
                 "photos": [
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/christmas/1cab3ba4-9c8b-44cd-b3be-e1870ea64b7e.jpg",
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/christmas/5bf927d7-d64e-41d5-a28a-e09e379fd7db.jpg"
+                  "photos/masterpiece cookies -sugar cookies/jeeps/1.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/jeeps/2.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/jeeps/3.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/jeeps/4.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/jeeps/5.jpeg"
+                ]
+              },
+              {
+                "name": "Ramadan",
+                "photos": [
+                  "photos/masterpiece cookies -sugar cookies/ramadan/1.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/ramadan/2.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/ramadan/3.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/ramadan/4.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/ramadan/5.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/ramadan/6.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/ramadan/7.jpeg"
+                ]
+              },
+              {
+                "name": "Sheep",
+                "photos": [
+                  "photos/masterpiece cookies -sugar cookies/sheeps/1.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/sheeps/2.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/sheeps/3.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/sheeps/sheep.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/sheeps/sheeps .jpeg"
                 ]
               },
               {
                 "name": "Valentine",
                 "photos": [
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/valatine/17e4ddf1-8bd3-4685-a15f-eaa911001e77.jpg",
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/valatine/28394ff6-4239-439a-9742-f52815b407de.jpg",
-                  "photos/Signature Art & Seasonal/Art Sugar Cookies/valatine/f1c64c3c-51a9-47e1-94c4-e68055db17c1.jpg"
+                  "photos/masterpiece cookies -sugar cookies/valentine/1.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/valentine/2.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/valentine/3.jpeg"
+                ]
+              },
+              {
+                "name": "Others",
+                "photos": [
+                  "photos/masterpiece cookies -sugar cookies/others/1.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/others/2.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/others/3.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/others/4.jpeg",
+                  "photos/masterpiece cookies -sugar cookies/others/5.jpeg"
                 ]
               }
             ]
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "signature-crinkles",
+      "name": "Signature Crinkles",
+      "description": "Soft in the center, delicately crisp on the outside, and finished with their signature snowy powdered sugar coating. Single Cookie 0.80 JD • Box of 6 – 4.50 JD • Box of 12 – 8.50 JD • Box of 20 – 13.50 JD.",
+      "items": [
         {
-          "id": "signature-crinkles",
-          "name": "Signature Crinkles",
-          "description": "A classic fudgy center with a delicate, crackled powdered sugar finish. Available in vibrant citrus and rich velvet flavors.",
+          "id": "crinkle-cookies",
+          "name": "Crinkle Cookie Collection",
+          "description": "Every crinkle cookie is freshly baked to deliver a rich flavor, irresistible texture, and a little moment of happiness in every bite. Choose your favorite.",
           "tags": ["Bestseller"],
+          "flavors": [
+            "🍓 Berry Bliss Crinkle – Strawberry",
+            "❤️ Velvet Kiss Crinkle – Red Velvet",
+            "🍋 Sunshine Lemon Crinkle – Lemon",
+            "🍊 Citrus Glow Crinkle – Orange",
+            "🍫 Midnight Chocolate Crinkle – Chocolate"
+          ],
+          "packages": [
+            "Single Cookie – 0.80 JD",
+            "Box of 6 – 4.50 JD",
+            "Box of 12 – 8.50 JD",
+            "Box of 20 – 13.50 JD"
+          ],
           "photos": [],
           "variants": {
             "label": "Flavor",
@@ -86,42 +159,38 @@
               {
                 "name": "Chocolate",
                 "photos": [
-                  "photos/Signature Art & Seasonal/Signature Crinkles/choco/526b5dfa-02f1-4aac-95d3-3ed928ad063a.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/choco/9b2f07c1-0344-4d3d-a9a5-ab521a387937.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/choco/a4163333-c5d1-411d-8892-149de1de7dc1.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/choco/WhatsApp Image 2026-04-10 at 18.24.40 (1).jpeg"
-                ]
-              },
-              {
-                "name": "Double Chocolate",
-                "photos": [
-                  "photos/Signature Art & Seasonal/Signature Crinkles/double choco/107cac7e-e058-4977-a88a-559ba11aec36.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/double choco/135b4755-597d-43e8-be86-346d8eec6b48.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/double choco/55270a92-764e-460c-86f5-dbcc6df2f06a.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/double choco/WhatsApp Image 2026-04-10 at 18.24.39 (3).jpeg"
-                ]
-              },
-              {
-                "name": "Lemon",
-                "photos": [
-                  "photos/Signature Art & Seasonal/Signature Crinkles/Lemon/dcccbae3-847a-4d91-9b00-511850a6ebe8.jpg"
+                  "photos/signature crinkles/chocolate/chocolate .jpeg",
+                  "photos/signature crinkles/chocolate/chocolate 2.jpeg",
+                  "photos/signature crinkles/chocolate/chocolate1.jpeg",
+                  "photos/signature crinkles/chocolate/chocolate3.jpeg",
+                  "photos/signature crinkles/chocolate/chocolate4.jpeg"
                 ]
               },
               {
                 "name": "Red Velvet",
                 "photos": [
-                  "photos/Signature Art & Seasonal/Signature Crinkles/Red Velvet/a2f09c3b-70c5-4c6a-b68d-6e673c63855a.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/Red Velvet/a5d2ccfa-c5b7-47fe-8dc7-89011ea31ae2.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/Red Velvet/b45155bc-c2fb-4a7a-904b-a7ed581fe346.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/Red Velvet/WhatsApp Image 2026-04-10 at 18.24.40 (2).jpeg"
+                  "photos/signature crinkles/red velvet/red velvet.jpeg",
+                  "photos/signature crinkles/red velvet/red velvet 2.jpeg",
+                  "photos/signature crinkles/red velvet/redvelvet .jpeg"
                 ]
               },
               {
                 "name": "Strawberry",
                 "photos": [
-                  "photos/Signature Art & Seasonal/Signature Crinkles/Strawberry/4472125d-a565-4ce4-8ada-c061f18f6147.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/Strawberry/9d624624-b2ff-489b-bee8-ff56caed5f16.jpg",
-                  "photos/Signature Art & Seasonal/Signature Crinkles/Strawberry/e73e0b02-60a6-4ef1-9f79-476f52402a28.jpg"
+                  "photos/signature crinkles/strawberries/strawberries .jpeg",
+                  "photos/signature crinkles/strawberries/strawberries 2.jpeg"
+                ]
+              },
+              {
+                "name": "Lemon",
+                "photos": [
+                  "photos/signature crinkles/lemon/lemon crinkles .jpeg"
+                ]
+              },
+              {
+                "name": "Orange",
+                "photos": [
+                  "photos/signature crinkles/orange/orange .jpeg"
                 ]
               }
             ]
@@ -130,74 +199,63 @@
       ]
     },
     {
-      "id": "mindful-baker",
-      "name": "The Mindful Baker",
-      "description": "Dietary needs and natural ingredients",
+      "id": "classic-cookies",
+      "name": "The Cookie Collection",
+      "description": "Where every bite becomes an experience. Freshly baked and made with premium ingredients, crispy around the edges and irresistibly soft in the center. Build Your Own Cookie Box — Classic: 6/12/20 for 8.50/16.50/27.00 JD • Filled: 6/12/20 for 11.50/22.00/38.00 JD.",
       "items": [
         {
-          "id": "power-trio",
-          "name": "The Power Trio",
-          "description": "Wholesome, chewy, and naturally sweetened. A hearty blend of fiber-rich oats and sun-ripened fruit.",
-          "ingredients": ["Date", "Oats", "Raisin"],
-          "tags": ["Natural", "Fiber"],
+          "id": "signature-chip",
+          "name": "The Signature Chip – Chocolate Chip Cookie",
+          "description": "Our iconic buttery vanilla cookie, generously loaded with premium chocolate chips and baked until golden with a soft, gooey center.",
+          "fillings": ["Belgian Bliss – Belgian Chocolate", "Nutty Dream – Peanut Butter"],
+          "tags": ["Classic", "Bestseller"],
+          "price": 1.5,
+          "packages": ["Classic Cookie – 1.50 JD", "Filled Cookie – 2.00 JD"],
           "photos": [
-            "photos/The Mindful Baker/The Power Trio/097727d3-4973-4ffb-9dd7-ea87f8d5a20d.jpg",
-            "photos/The Mindful Baker/The Power Trio/10ea01d4-63dc-4d5a-9bf3-0eeb5fa6cb2c.jpg",
-            "photos/The Mindful Baker/The Power Trio/6bc98774-54fd-4d6e-9d04-c5909237bcd3.jpg",
-            "photos/The Mindful Baker/The Power Trio/cab90a4c-6c19-4d70-881b-053c6776d50f.jpg"
-          ]
+            "photos/classic cookies/chocolate chip cookies/1.jpeg",
+            "photos/classic cookies/chocolate chip cookies/2.jpeg",
+            "photos/classic cookies/chocolate chip cookies/3.jpeg",
+            "photos/classic cookies/chocolate chip cookies/4.jpeg"
+          ],
+          "variants": {
+            "label": "Filling",
+            "options": [
+              {
+                "name": "With Peanut Butter",
+                "photos": [
+                  "photos/classic cookies/chocolate chip cookies/with peanut butter .jpeg"
+                ]
+              }
+            ]
+          }
         },
         {
-          "id": "everything-free-pb",
-          "name": "\"Everything-Free\" Peanut Butter",
-          "description": "Creamy, protein-packed indulgence made without the compromise. 100% Gluten-Free, Dairy-Free, and Sugar-Free.",
-          "labels": ["Sugar-Free", "Dairy-Free", "Gluten-Free"],
-          "tags": ["GF", "DF", "SF"],
-          "photos": []
-        }
-      ]
-    },
-    {
-      "id": "gourmet-classics",
-      "name": "Gourmet Classics",
-      "description": "Indulgent, filled, and textured cookies",
-      "items": [
-        {
-          "id": "signature-chocolate-chip",
-          "name": "Signature Chocolate Chip",
-          "description": "Our iconic buttery dough loaded with premium chips and a deep chocolate center.",
-          "fillings": ["Chocolate"],
-          "tags": ["Classic"],
-          "photos": [
-            "photos/Gourmet Classics/Signature Chocolate Chip/0c6a158c-4f08-437c-999a-a5f8191bdf66.jpg",
-            "photos/Gourmet Classics/Signature Chocolate Chip/25e277f1-39e6-48bd-baaa-42aef2c53912.jpg",
-            "photos/Gourmet Classics/Signature Chocolate Chip/53d2f06a-4f5f-48ff-be39-3c9cb22d03aa.jpg",
-            "photos/Gourmet Classics/Signature Chocolate Chip/859e97f1-05c8-4222-b4d2-25c0175ee98b.jpg",
-            "photos/Gourmet Classics/Signature Chocolate Chip/WhatsApp Image 2026-04-10 at 18.24.33 (1).jpeg",
-            "photos/Gourmet Classics/Signature Chocolate Chip/WhatsApp Image 2026-04-10 at 18.24.34.jpeg",
-            "photos/Gourmet Classics/Signature Chocolate Chip/WhatsApp Image 2026-04-10 at 18.24.37 (1).jpeg",
-            "photos/Gourmet Classics/Signature Chocolate Chip/WhatsApp Image 2026-04-10 at 18.24.37 (2).jpeg",
-            "photos/Gourmet Classics/Signature Chocolate Chip/WhatsApp Image 2026-04-10 at 18.24.40 (4).jpeg",
-            "photos/Gourmet Classics/Signature Chocolate Chip/filled choco/WhatsApp Image 2026-04-10 at 18.24.33 (2).jpeg"
-          ]
-        },
-        {
-          "id": "double-chocolate-dream",
-          "name": "Double Chocolate Dream",
-          "description": "A deep, cocoa-intense experience. Choose an exotic center like tart Pomegranate or aromatic Cardamom.",
-          "fillings": ["Chocolate", "Peanut Butter", "Cardamom", "Pomegranate", "Bueno", "Lotus", "Marshmallow", "Nutella"],
+          "id": "midnight-luxe-chocolate",
+          "name": "Midnight Luxe – Chocolate Cookie",
+          "description": "A rich chocolate cookie with a fudgy center, made for those who believe there's no such thing as too much chocolate.",
+          "fillings": [
+            "Belgian Bliss – Melted Belgian Chocolate",
+            "Nutty Dream – Creamy Peanut Butter",
+            "Arabian Spice – Chocolate with Cardamom",
+            "Red Pomegranate – Chocolate with Pomegranate",
+            "Golden Bueno – Creamy Bueno",
+            "Biscoff Bliss – Lotus Biscoff",
+            "Hazelnut Heaven – Nutella",
+            "Kinder Cloud – Creamy Kinder"
+          ],
           "tags": ["Rich", "Filled"],
           "baseLabel": "Basic",
+          "price": 1.5,
+          "packages": ["Classic Cookie – 1.50 JD", "Filled Cookie – 2.00 JD"],
           "photos": [
-            "photos/Gourmet Classics/double choco/482c4c37-3328-4a2b-b524-8aee8246d91b.jpg",
-            "photos/Gourmet Classics/double choco/7bc681dd-21c6-4770-8846-1e7ffea51066.jpg",
-            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.38 (1).jpeg",
-            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.38 (2).jpeg",
-            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.38.jpeg",
-            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.39 (1).jpeg",
-            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.39 (2).jpeg",
-            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.39 (4).jpeg",
-            "photos/Gourmet Classics/double choco/WhatsApp Image 2026-04-10 at 18.24.41 (2).jpeg"
+            "photos/classic cookies/chocolate/1.jpeg",
+            "photos/classic cookies/chocolate/2.jpeg",
+            "photos/classic cookies/chocolate/3.jpeg",
+            "photos/classic cookies/chocolate/4.jpeg",
+            "photos/classic cookies/chocolate/5.jpeg",
+            "photos/classic cookies/chocolate/6.jpeg",
+            "photos/classic cookies/chocolate/7.jpeg",
+            "photos/classic cookies/chocolate/15.jpeg"
           ],
           "variants": {
             "label": "Filling",
@@ -205,65 +263,361 @@
               {
                 "name": "Cardamom",
                 "photos": [
-                  "photos/Gourmet Classics/double choco/cardimom/WhatsApp Image 2026-04-10 at 18.24.34 (2).jpeg",
-                  "photos/Gourmet Classics/double choco/cardimom/WhatsApp Image 2026-04-10 at 18.24.34 (3).jpeg"
-                ]
-              },
-              {
-                "name": "Marshmallow",
-                "photos": [
-                  "photos/Gourmet Classics/double choco/marshmellow/00852a5c-5a4e-4a11-8b88-fe7351730f21.jpg",
-                  "photos/Gourmet Classics/double choco/marshmellow/de0f197f-d58b-48f0-9f1d-e5f993f45ded.jpg"
-                ]
-              },
-              {
-                "name": "Nutella",
-                "photos": [
-                  "photos/Gourmet Classics/double choco/nutella/WhatsApp Image 2026-04-10 at 18.24.41 (1).jpeg"
+                  "photos/classic cookies/cardamom/1.jpeg",
+                  "photos/classic cookies/cardamom/2.jpeg"
                 ]
               },
               {
                 "name": "Pomegranate",
                 "photos": [
-                  "photos/Gourmet Classics/double choco/pomegranate/WhatsApp Image 2026-04-10 at 18.24.37.jpeg"
+                  "photos/classic cookies/chocolate pomegranate/1.jpeg",
+                  "photos/classic cookies/chocolate pomegranate/2.jpeg"
                 ]
               }
             ]
           }
         },
         {
-          "id": "red-velvet-cookie",
-          "name": "Red Velvet",
-          "description": "Velvety cocoa cookies with a soft center and a subtle cream-cheese style sweetness, finished with a rich ruby crumb.",
+          "id": "ruby-velvet",
+          "name": "Ruby Velvet",
+          "description": "A luxurious red velvet cookie with creamy white chocolate chips. Soft, velvety, and beautifully balanced with just the right touch of sweetness.",
           "tags": ["Velvety", "Cocoa"],
+          "price": 1.5,
+          "packages": ["Classic Cookie – 1.50 JD"],
           "photos": [
-            "photos/Gourmet Classics/red velvet/WhatsApp Image 2026-04-10 at 18.24.34 (1).jpeg"
+            "photos/classic cookies/red velvet/1.jpeg",
+            "photos/classic cookies/red velvet/2.jpeg"
           ]
-        },
-        {
-          "id": "brounies",
-          "name": "Brounies",
-          "description": "Ultra-fudgy brownie squares with a glossy crackled top and deep cocoa flavor in every bite.",
-          "tags": ["Fudgy", "Chocolate Lover"],
-          "photos": [
-            "photos/brounies/WhatsApp Image 2026-04-10 at 18.24.40 (5).jpeg",
-            "photos/brounies/WhatsApp Image 2026-04-10 at 18.24.41.jpeg"
-          ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "cookie-cake",
+      "name": "Cookie Cake Collection",
+      "description": "Why choose between a cookie and a cake when you can have both? Baked with our signature cookie dough, filled with a rich melted chocolate center, and finished with the perfect topping.",
+      "items": [
         {
           "id": "cookie-cake",
           "name": "Cookie Cake",
-          "description": "A giant soft-baked cookie cake, golden at the edges and chewy in the center, perfect for sharing and celebrations.",
+          "description": "Crispy around the edges, soft and gooey in the middle—every slice is made to impress. One slice turns into two… and before you know it, the whole Cookie Cake is gone.",
+          "flavors": [
+            "The Original Melt – Chocolate Chip Cookie Cake with a molten chocolate center – 13 JD",
+            "Triple Chocolate Temptation – Chocolate base, melted chocolate center, topped with premium chocolate – 14 JD",
+            "Kinder Dream – Buttery cookie dough overflowing with Kinder chocolate – 15 JD"
+          ],
           "tags": ["Celebration", "Shareable"],
+          "packages": [
+            "The Original Melt – 13 JD",
+            "Triple Chocolate Temptation – 14 JD",
+            "Kinder Dream – 15 JD"
+          ],
           "photos": [
-            "photos/cookie cake/main.jpg",
-            "photos/cookie cake/123.jpg",
-            "photos/cookie cake/4c456134-7cf8-46df-9a33-6754177fdbc2.jpg",
-            "photos/cookie cake/a00b8394-6bf9-4701-9f4a-4b4acd72f56a.jpg",
-            "photos/cookie cake/c2eb1177-e535-46e3-9ca0-66cbb76ab136.jpg",
-            "photos/cookie cake/7de02840-e2d8-42aa-9129-003a6903e9f2.jpg",
-            "photos/cookie cake/WhatsApp Image 2026-04-10 at 18.24.33.jpeg"
+            "photos/cookie cake/1.jfif",
+            "photos/cookie cake/2.jfif",
+            "photos/cookie cake/3.jfif",
+            "photos/cookie cake/4.jfif",
+            "photos/cookie cake/5.jfif",
+            "photos/cookie cake/6.jfif",
+            "photos/cookie cake/7.jfif",
+            "photos/cookie cake/8.jfif",
+            "photos/cookie cake/9.jfif",
+            "photos/cookie cake/10.jfif"
           ]
+        }
+      ]
+    },
+    {
+      "id": "brownies",
+      "name": "Brownie Bliss Collection",
+      "description": "Rich. Fudgy. Impossible to Resist. Crafted with premium chocolate, baked to a perfectly fudgy center, and finished with a delicate crackly top.",
+      "items": [
+        {
+          "id": "brownies",
+          "name": "Brownies",
+          "description": "Made fresh for every order with rich premium chocolate in every bite and the perfect balance of fudgy and soft. Ideal for gifts, dessert tables, or satisfying late-night cravings.",
+          "tags": ["Fudgy", "Chocolate Lover"],
+          "packages": [
+            "Brownie Tray – 12 Pieces – 15 JD",
+            "Mini Brownie Cups – 10 Bite-Sized Cups – 12 JD"
+          ],
+          "photos": [
+            "photos/brownies/1.jfif",
+            "photos/brownies/2.jfif",
+            "photos/brownies/3.jfif",
+            "photos/brownies/4.jfif",
+            "photos/brownies/5.jfif"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "healthy-cookies",
+      "name": "Healthy Cookies",
+      "description": "Signature Cookie Collection — wholesome ingredients, naturally sweetened, made to satisfy every craving without compromise.",
+      "items": [
+        {
+          "id": "golden-harvest-cookie",
+          "name": "🌾 Golden Harvest Cookie",
+          "description": "Wholesome never tasted so indulgent. Crafted with oats, naturally sweet dates, and raisins, this cookie delivers a comforting homemade flavor in every bite. Soft, chewy, and naturally satisfying—it's the perfect companion for your morning coffee or an afternoon treat.",
+          "ingredients": ["Oats", "Dates", "Raisins"],
+          "tags": ["Natural", "Fiber"],
+          "packages": [
+            "1 Cookie – 1.20 JD",
+            "Box of 6 – 6.50 JD",
+            "Box of 12 – 12.00 JD",
+            "Box of 20 – 19.00 JD"
+          ],
+          "photos": [
+            "photos/healty cookies/🌾 Golden Harvest Cookie/1 jpeg.jpeg",
+            "photos/healty cookies/🌾 Golden Harvest Cookie/2.jpeg",
+            "photos/healty cookies/🌾 Golden Harvest Cookie/3.jpeg"
+          ]
+        },
+        {
+          "id": "festive-hearth-cookie",
+          "name": "✨ Festive Hearth Cookie",
+          "description": "Warm cinnamon, rich dark chocolate, and crunchy walnuts come together to create a cookie that feels like home during the holidays. Soft, buttery, and generously loaded with chocolate, it's a timeless classic you'll crave all year long.",
+          "ingredients": ["Cinnamon", "Dark Chocolate", "Walnuts"],
+          "tags": ["Seasonal", "Cozy"],
+          "packages": [
+            "1 Cookie – 1.40 JD",
+            "Box of 6 – 7.50 JD",
+            "Box of 12 – 14.00 JD",
+            "Box of 20 – 22.00 JD"
+          ],
+          "photos": [
+            "photos/healty cookies/✨ Festive Hearth Cookie/1.jpeg",
+            "photos/healty cookies/✨ Festive Hearth Cookie/2.jpeg",
+            "photos/healty cookies/✨ Festive Hearth Cookie/3.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sensitivity-friendly",
+      "name": "Sensitivity Friendly – Everything Free",
+      "description": "Naturally Sweet. Thoughtfully Crafted. Made for everyone—but especially for those with food sensitivities or anyone looking for a healthier indulgence. No gluten, no dairy, sugar free.",
+      "items": [
+        {
+          "id": "nutty-bliss-bites",
+          "name": "🥜 Nutty Bliss Bites",
+          "description": "Date, Peanut Butter & Nut Bites. Two irresistible layers in every bite. The first combines naturally sweet dates with crunchy mixed nuts, while the second blends creamy peanut butter with roasted nuts for a rich, satisfying finish.",
+          "labels": ["Sugar-Free", "Dairy-Free", "Gluten-Free"],
+          "tags": ["GF", "DF", "SF"],
+          "photos": [
+            "photos/sensitivity friendly - everything free/🥜 Nutty Bliss Bites/1.jpeg",
+            "photos/sensitivity friendly - everything free/🥜 Nutty Bliss Bites/2.jpeg"
+          ]
+        },
+        {
+          "id": "golden-harvest-bars",
+          "name": "🌰 Golden Harvest Bars",
+          "description": "Date & Nut Energy Bars. Made with premium dates, crunchy cashews, almonds, and walnuts, these naturally sweet bars are packed with nutrients and flavor. The ideal snack for busy days, a quick energy boost, or a guilt-free treat.",
+          "labels": ["Sugar-Free", "Dairy-Free", "Gluten-Free"],
+          "tags": ["GF", "DF", "SF"],
+          "photos": [
+            "photos/sensitivity friendly - everything free/🌰 Golden Harvest Bars/3.jpeg",
+            "photos/sensitivity friendly - everything free/🌰 Golden Harvest Bars/4.jpeg"
+          ]
+        },
+        {
+          "id": "pure-peanut-butter-cookies",
+          "name": "🍪 Pure Peanut Butter Cookies",
+          "description": "Simple ingredients, extraordinary taste. These soft, melt-in-your-mouth cookies are made with 100% pure peanut butter paste and naturally sweetened with sugar-free maple syrup. No flour, no dairy, and no unnecessary additives—just pure goodness in every bite.",
+          "labels": ["Sugar-Free", "Dairy-Free", "Gluten-Free"],
+          "tags": ["GF", "DF", "SF"],
+          "photos": [
+            "photos/sensitivity friendly - everything free/🍪 Pure Peanut Butter Cookies/1.jpeg",
+            "photos/sensitivity friendly - everything free/🍪 Pure Peanut Butter Cookies/2.jpeg",
+            "photos/sensitivity friendly - everything free/🍪 Pure Peanut Butter Cookies/3.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "themes-and-parties",
+      "name": "Themes & Parties",
+      "description": "Signature Dessert Tables — your theme, our sweetest creation. Every celebration deserves a show-stopping dessert table, fully customized to your chosen colors, theme, and style.",
+      "items": [
+        {
+          "id": "themed-dessert-table",
+          "name": "Custom Themed Dessert Table",
+          "description": "From elegant bridal showers to fun-filled birthdays and unforgettable graduations, we transform your vision into a beautifully coordinated dessert collection. Perfect for birthdays, bridal showers, graduations, farewell parties, Mother's Day, baby showers, corporate events, and more.",
+          "buildYourOwn": true,
+          "tags": ["Custom", "Event"],
+          "packages": [
+            "Sweet Starter – 24–30 desserts – from 35 JD",
+            "Signature Celebration – 45–60 desserts – from 65 JD",
+            "Luxury Dessert Table – 80–120+ desserts with complete theme styling – from 120 JD",
+            "Custom Orders – contact us for a personalized quote"
+          ],
+          "photos": [],
+          "variants": {
+            "label": "Theme",
+            "options": [
+              {
+                "name": "Floral",
+                "photos": [
+                  "photos/themes and parties/floral/01.jfif",
+                  "photos/themes and parties/floral/02.jfif",
+                  "photos/themes and parties/floral/04.jfif",
+                  "photos/themes and parties/floral/1.jfif",
+                  "photos/themes and parties/floral/2.jfif",
+                  "photos/themes and parties/floral/3.jfif",
+                  "photos/themes and parties/floral/4.jfif",
+                  "photos/themes and parties/floral/5.jfif",
+                  "photos/themes and parties/floral/6.jfif",
+                  "photos/themes and parties/floral/7.jfif",
+                  "photos/themes and parties/floral/8.jfif",
+                  "photos/themes and parties/floral/9.jfif",
+                  "photos/themes and parties/floral/10.jfif",
+                  "photos/themes and parties/floral/11.jfif",
+                  "photos/themes and parties/floral/22.jfif",
+                  "photos/themes and parties/floral/33.jfif",
+                  "photos/themes and parties/floral/44.jfif",
+                  "photos/themes and parties/floral/99.jfif",
+                  "photos/themes and parties/floral/100.jfif",
+                  "photos/themes and parties/floral/101.jfif"
+                ]
+              },
+              {
+                "name": "Burgundy",
+                "photos": [
+                  "photos/themes and parties/burgandy/1.jfif",
+                  "photos/themes and parties/burgandy/2.jfif",
+                  "photos/themes and parties/burgandy/3.jfif",
+                  "photos/themes and parties/burgandy/4.jfif",
+                  "photos/themes and parties/burgandy/5.jfif",
+                  "photos/themes and parties/burgandy/6.jfif",
+                  "photos/themes and parties/burgandy/7.jfif",
+                  "photos/themes and parties/burgandy/8.jfif",
+                  "photos/themes and parties/burgandy/9.jfif",
+                  "photos/themes and parties/burgandy/10.jfif"
+                ]
+              },
+              {
+                "name": "Blue",
+                "photos": [
+                  "photos/themes and parties/blue/1.jfif",
+                  "photos/themes and parties/blue/2.jfif",
+                  "photos/themes and parties/blue/3.jfif",
+                  "photos/themes and parties/blue/4.jfif",
+                  "photos/themes and parties/blue/5.jfif"
+                ]
+              },
+              {
+                "name": "Green",
+                "photos": [
+                  "photos/themes and parties/green/1.jfif",
+                  "photos/themes and parties/green/2.jfif",
+                  "photos/themes and parties/green/3.jfif",
+                  "photos/themes and parties/green/4.jfif",
+                  "photos/themes and parties/green/5.jfif",
+                  "photos/themes and parties/green/6.jfif"
+                ]
+              },
+              {
+                "name": "Sunflower",
+                "photos": [
+                  "photos/themes and parties/sunflower/1.jfif",
+                  "photos/themes and parties/sunflower/2.jfif"
+                ]
+              },
+              {
+                "name": "Marvel",
+                "photos": [
+                  "photos/themes and parties/marvel/1.jfif",
+                  "photos/themes and parties/marvel/2.jfif",
+                  "photos/themes and parties/marvel/3.jfif",
+                  "photos/themes and parties/marvel/4.jfif",
+                  "photos/themes and parties/marvel/5.jfif",
+                  "photos/themes and parties/marvel/6.jfif"
+                ]
+              },
+              {
+                "name": "Pac-Man",
+                "photos": [
+                  "photos/themes and parties/packman/1.jfif",
+                  "photos/themes and parties/packman/2.jfif"
+                ]
+              },
+              {
+                "name": "Formula 1",
+                "photos": [
+                  "photos/themes and parties/formula 1/1.jfif",
+                  "photos/themes and parties/formula 1/2.jfif",
+                  "photos/themes and parties/formula 1/3.jfif"
+                ]
+              },
+              {
+                "name": "Dancing Queen",
+                "photos": [
+                  "photos/themes and parties/dancing queen/1.jfif",
+                  "photos/themes and parties/dancing queen/2.jfif",
+                  "photos/themes and parties/dancing queen/3.jfif",
+                  "photos/themes and parties/dancing queen/4.jfif"
+                ]
+              },
+              {
+                "name": "Graduation",
+                "photos": [
+                  "photos/themes and parties/graduation/1.jfif",
+                  "photos/themes and parties/graduation/2.jfif",
+                  "photos/themes and parties/graduation/3.jfif",
+                  "photos/themes and parties/graduation/4.jfif",
+                  "photos/themes and parties/graduation/5.jfif"
+                ]
+              },
+              {
+                "name": "Mother's Day",
+                "photos": [
+                  "photos/themes and parties/mothers day/1.jfif",
+                  "photos/themes and parties/mothers day/2.jfif",
+                  "photos/themes and parties/mothers day/3.jfif",
+                  "photos/themes and parties/mothers day/11.jfif",
+                  "photos/themes and parties/mothers day/22.jfif"
+                ]
+              },
+              {
+                "name": "Halloween",
+                "photos": [
+                  "photos/themes and parties/haloween/1.jfif",
+                  "photos/themes and parties/haloween/2.jfif",
+                  "photos/themes and parties/haloween/3.jfif",
+                  "photos/themes and parties/haloween/4.jfif",
+                  "photos/themes and parties/haloween/5.jfif",
+                  "photos/themes and parties/haloween/9.jfif"
+                ]
+              },
+              {
+                "name": "CS",
+                "photos": [
+                  "photos/themes and parties/cs/1.jfif",
+                  "photos/themes and parties/cs/2.jfif",
+                  "photos/themes and parties/cs/3.jfif",
+                  "photos/themes and parties/cs/12.jfif"
+                ]
+              },
+              {
+                "name": "Others",
+                "photos": [
+                  "photos/themes and parties/others/1.jfif",
+                  "photos/themes and parties/others/2.jfif",
+                  "photos/themes and parties/others/3.jfif",
+                  "photos/themes and parties/others/4.jfif",
+                  "photos/themes and parties/others/5.jfif",
+                  "photos/themes and parties/others/6.jfif",
+                  "photos/themes and parties/others/8.jfif",
+                  "photos/themes and parties/others/11.jfif",
+                  "photos/themes and parties/others/13.jfif",
+                  "photos/themes and parties/others/67.jfif",
+                  "photos/themes and parties/others/99.jfif",
+                  "photos/themes and parties/others/111.jfif",
+                  "photos/themes and parties/others/1111.jfif"
+                ]
+              }
+            ]
+          }
         }
       ]
     }
